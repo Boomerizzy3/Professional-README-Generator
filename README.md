@@ -4,6 +4,10 @@
 
 Generates a professional README based off of user inputs
 
+## Video walkthrough
+
+https://drive.google.com/file/d/1-WXCJoKIYoK1YtHjw24kHCPTtS91O9Lh/view?usp=sharing 
+
 ## Credits
 
 Rutgers Coding Bootcamp Module 9 Challenge
